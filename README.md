@@ -248,7 +248,7 @@ DROP DATABASE $mailcowdb;
 DROP DATABASE $roundcubedb;
  
 # Let's Encrypt
-rm -r /opt/letsencrypt-sh/
+rm -r /opt/letsencrypt-sh/ 
 
 # FuGlu
 systemctl disable fuglu
