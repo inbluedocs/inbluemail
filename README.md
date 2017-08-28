@@ -15,6 +15,9 @@
 
 mailcow
 =====
+**PLEASE USE <https://github.com/mailcow/mailcow-dockerized>! This version is outdated/frozen until "mailcow: dockerized" code is merged to this repository.** (No estimation of when this will occurs).
+
+**Official website: <https://mailcow.email>**
 
 mailcow is a mail server suite based on Dovecot, Postfix and other open source software, that provides a modern web UI for user/server administration.
 
