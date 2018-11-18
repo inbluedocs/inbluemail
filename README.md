@@ -1,41 +1,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-![mailcow](https://inbluemail.me/wp-content/uploads/2018/11/33374-2efaf37184bbff76160f02ee8d5a46db-medium_jpg.png)
-
-- [mailcow](#mailcow)
-- [Get Support](#get-support)
-- [Introduction](#introduction)
-- [System Requirements](#system-requirements)
-- [Before You Begin (Prerequisites)](#before-you-begin-prerequisites)
-- [Installation](#installation)
-- [Upgrade](#upgrade)
-- [Uninstall](#uninstall)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-mailcow
-=====
-**PLEASE USE <https://github.com/mailcow/mailcow-dockerized>! This version is outdated/frozen until "mailcow: dockerized" code is merged to this repository.** (No estimation of when this will occurs).
-
-**Official website: <https://mailcow.email>**
-
-mailcow is a mail server suite based on Dovecot, Postfix and other open source software, that provides a modern web UI for user/server administration.
-
-mailcow supports **Debian 8 (Jessie), Ubuntu LTS 14.04 (Trusty Tahr) and Ubuntu LTS 16.04 (Xenial Xerus)**
-
-[Everybody loves screenshots (v0.14)](http://imgur.com/a/lWX2V)
-
-## Get support
-
-### Commercial support
-
-For commercial support contact [info@servercow.de](mailto:info@servercow.de).
-
-### Community support
-
-- IRC @ [Freenode, #mailcow](irc://irc.freenode.org:6667/mailcow)
-- Forum @ [forum.mailcow.email](forum.mailcow.email)
-- GitHub @ [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow)
+(https://inbluemail.me/wp-content/uploads/2018/11/33374-2efaf37184bbff76160f02ee8d5a46db-medium_jpg.png)
 
 # Introduction
 
